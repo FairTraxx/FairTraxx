@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on backends for mobile apps
-- 🌱 I’m currently learning React Native and REST APIs
+- 🌱 I’m currently learning React Native, REST APIs and how to write a readme file
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...حكم العسكر
