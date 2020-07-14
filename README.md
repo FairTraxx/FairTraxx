@@ -9,7 +9,7 @@
 
 
 
-A 3rd year Computer Science student and a seasoned and creative backend developer (soon to be fullstack) with 1.5 years of experience leveraging Python and JavaScript frameworks to build web & mobile application Backends. 
+I am a 3rd year Computer Science student and a seasoned and creative backend developer (soon to be fullstack) with 1.5 years of experience leveraging Python and JavaScript frameworks to build web & mobile application Backends. 
 
 
  
