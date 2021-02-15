@@ -9,7 +9,7 @@
 
 
 
-I am a senior year Computer Science student and a seasoned and creative backend developer (soon to be fullstack) with 1.5 years of experience leveraging Python and JavaScript frameworks to build web & mobile application Backends. 
+A seasoned and creative backend developer (soon to be fullstack) with 1.5 years of experience leveraging Python and JavaScript frameworks to build web & mobile application Backends. 
 
 
  
