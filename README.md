@@ -1,8 +1,6 @@
 
 ## 🔭 Backend Developer
 
-` 😄 Mohammed Adel` |  `🌱 Cairo, Egypt` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/mohammedad3l`
-
 
 
 ### Hi there 👋 
