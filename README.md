@@ -1,4 +1,4 @@
-
+-------
 ## 🔭 Backend Developer
 
 
@@ -7,16 +7,16 @@
 
 
 
-A seasoned and creative backend developer (soon to be fullstack) with 1.5 years of experience leveraging Python and JavaScript frameworks to build web & mobile application Backends. 
+CS grad & a Backend Engineer, Machine Learning (Tensorflow & OpenAI) with over 3 years of experience leveraging Python and JavaScript frameworks to build web & mobile application Backends & APIs, Neural Networks, WebScraping & automation. 
 
 
  
 
 ## Key skills
 
-💬 `Html, CSS, JavaScript, Python, Django, Postgres, REST APIs`.
+💬  ` Python, Django, Flask, JavaScript, node.js, Golang, Postgres, REST APIs, Proxies, SQL, no-SQL`.
 
-📖 ` React.js / SASS / photoshop & video editing`
+📖 ` React.js, video AI automation, photoshop & video editing, circuit soldering & Arduino...Car Tunning ?`
 
 
 ## I have been working on
